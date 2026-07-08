@@ -59,11 +59,11 @@ This repository does **not** claim ownership of any ROM, kernel, recovery, or fi
 If you are the original author and would like your content removed or updated, please open an Issue.
 
 ## Telegram
-https://t.me/ZenfoneMaxM1Updates\
-https://t.me/X00PArchive\
-https://t.me/X00PArchiveDiscussion\
-https://t.me/X00PGallery\
-https://t.me/GudangX00P
+- https://t.me/ZenfoneMaxM1Updates
+- https://t.me/X00PArchive
+- https://t.me/X00PArchiveDiscussion
+- https://t.me/X00PGallery
+- https://t.me/GudangX00P
 
 
 ## License
