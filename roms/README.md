@@ -8,7 +8,13 @@ This section contains archived custom Android distributions developed for the **
 
 ## Available ROMs
 
-- Lorem Ipsum
+- [LineageOS](./los/)
+- [crDroid](./cr/)
+- [AncientOS](./ancient/)
+- [ReloadedOS](./reloaded/)
+- [Havoc-OS](./havoc/)
+- [AtomOS](./atom/)
+- [DerpFest](./derp/)
 
 ## Credits
 

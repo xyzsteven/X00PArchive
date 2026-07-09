@@ -6,6 +6,7 @@ This section contains archived Official Firmwares for the **ASUS Zenfone Max M1 
 
 - [Stock Firmware Only](./fw-only/)
 - [Stock ROM](./stock-rom/)
+- [Fastboot Stock ROM](./fastboot-stock-rom/)
 
 ## Credits
 

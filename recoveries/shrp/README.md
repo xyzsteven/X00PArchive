@@ -3,7 +3,7 @@
 
 > ***Disclaimer***
 >
-> *Your warranty is now void. We're not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed. Please do some research if you have any concerns about features included in this ROM before flashing it! YOU are choosing to make these modifications, and if you point the finger at us for messing up your device, we will laugh at you.*
+> *Your warranty is now void. We're not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed. Please do some research if you have any concerns about features included in this RECOVERY before flashing it! YOU are choosing to make these modifications, and if you point the finger at us for messing up your device, we will laugh at you.*
 
 ## Introduction
 
@@ -60,6 +60,6 @@ N/A
 
 ## Credits
 
-Special thanks to [@danascape](https://github.com/danascape) as maintainer and contributor of SkyHawk Recovery Project (SHRP) who helped the ASUS Zenfone Max M1 alive throughout the Android development community.
+Special thanks to [@danascape](https://github.com/danascape) as maintainer and contributor of [SkyHawk Recovery Project (SHRP)](https://github.com/SHRP) who helped the ASUS Zenfone Max M1 alive throughout the Android development community.
 
 This archive simply preserves their work for future.

@@ -3,7 +3,7 @@
 
 > ***Disclaimer***
 >
-> *Your warranty is now void. We're not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed. Please do some research if you have any concerns about features included in this ROM before flashing it! YOU are choosing to make these modifications, and if you point the finger at us for messing up your device, we will laugh at you.*
+> *Your warranty is now void. We're not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed. Please do some research if you have any concerns about features included in this RECOVERY before flashing it! YOU are choosing to make these modifications, and if you point the finger at us for messing up your device, we will laugh at you.*
 
 ## Introduction
 
@@ -95,7 +95,6 @@ Pitch Black Recovery is a fork of TWRP with many improvements to make your exper
 N/A
 
 </details>
-
 <br/>
 
 | Version | Build Date | Status   | Maintainer                                   | Downloads |
@@ -110,7 +109,6 @@ N/A
 - Enable System-As-Root
 
 </details>
-
 <br/>
 
 | Version | Build Date | Status   | Maintainer                                   | Downloads |
@@ -123,10 +121,33 @@ N/A
 - PitchBlack Changes
 
 </details>
+<br/>
 
+| Version | Build Date | Status   | Maintainer                                   | Downloads |
+| :------ | :--------- | :------- | :------------------------------------------- | :-------- |
+| 2.9.1   | 18/04/2020 | OFFICIAL | [@RazaDroid](https://github.com/DelightReza) | [Sourceforge](https://sourceforge.net/projects/pbrp/files/X00P/PitchBlack-X00P-2.9.1-20200418-0617-OFFICIAL.zip/download)<br/> [Internet Archive](https://archive.org/download/x00p-archive/recoveries/pbrp/PitchBlack-X00P-2.9.1-20200418-0617-OFFICIAL.zip)
+
+<details><summary><strong>Changelog</strong></summary>
+
+- Rebase Tree To Pie Base
+- Support To Decrypt Android 10
+- Source Upstream
+
+</details>
+<br/>
+
+| Version | Build Date | Status   | Maintainer                                   | Downloads |
+| :------ | :--------- | :------- | :------------------------------------------- | :-------- |
+| 2.9.1   | 22/04/2020 | OFFICIAL | [@RazaDroid](https://github.com/DelightReza) | [Sourceforge](https://sourceforge.net/projects/pbrp/files/X00P/PitchBlack-X00P-2.9.1-20200422-0352-OFFICIAL.zip/download)<br/> [Internet Archive](https://archive.org/download/x00p-archive/recoveries/pbrp/PitchBlack-X00P-2.9.1-20200422-0352-OFFICIAL.zip)
+
+<details><summary><strong>Changelog</strong></summary>
+
+- Fixed Firmware Flashing
+
+</details>
 
 ## Credits
 
-Special thanks to [@RazaDroid](https://github.com/DelightReza) as maintainer and contributor of PitchBlack Recovery Project (PBRP) who helped the ASUS Zenfone Max M1 alive throughout the Android development community.
+Special thanks to [@RazaDroid](https://github.com/DelightReza) as maintainer and contributor of [PitchBlack Recovery Project (PBRP)](https://github.com/PitchBlackRecoveryProject) who helped the ASUS Zenfone Max M1 alive throughout the Android development community.
 
 This archive simply preserves their work for future.

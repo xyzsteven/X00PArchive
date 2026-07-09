@@ -8,7 +8,7 @@ This section contains archived custom Kernels distributions developed for the **
 
 ## Available Kernels
 
-- Lorem Ipsum
+- [StormBreaker Kernel](./sb/)
 
 ## Credits
 

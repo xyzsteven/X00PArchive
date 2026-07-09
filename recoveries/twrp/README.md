@@ -3,7 +3,7 @@
 
 > ***Disclaimer***
 >
-> *Your warranty is now void. We're not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed. Please do some research if you have any concerns about features included in this ROM before flashing it! YOU are choosing to make these modifications, and if you point the finger at us for messing up your device, we will laugh at you.*
+> *Your warranty is now void. We're not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed. Please do some research if you have any concerns about features included in this RECOVERY before flashing it! YOU are choosing to make these modifications, and if you point the finger at us for messing up your device, we will laugh at you.*
 
 ## Introduction
 
@@ -37,13 +37,22 @@ fastboot oem reboot-recovery
 - Initial Official Build
 
 </details>
+<br/>
 
-<details><summary><strong>Screenshot</strong></summary>
-N/A
+| Version | Build Date | Status   | Maintainer                                   | Downloads |
+| :------ | :--------- | :------- | :------------------------------------------- | :-------- |
+| 3.3.1-1 | 19/04/2020 | OFFICIAL | [@RazaDroid](https://github.com/DelightReza) | [TWRP Official](https://dl.twrp.me/X00P/twrp-3.3.1-1-X00P.img)<br/> [Internet Archive](https://archive.org/download/x00p-archive/recoveries/twrp/twrp-3.3.1-1-X00P.img)
+
+<details><summary><strong>Changelog</strong></summary>
+
+- Add Support To Flash Stock ROM
+- Rebase Tree To Pie
+- Update Prebuilt Kernel From Stock Pie
+
 </details>
 
 ## Credits
 
-Special thanks to [@RazaDroid](https://github.com/DelightReza) as maintainer and contributor of Team Win Recovery Project (TWRP) who helped the ASUS Zenfone Max M1 alive throughout the Android development community.
+Special thanks to [@RazaDroid](https://github.com/DelightReza) as maintainer and contributor of [Team Win Recovery Project (TWRP)](https://github.com/TeamWin) who helped the ASUS Zenfone Max M1 alive throughout the Android development community.
 
 This archive simply preserves their work for future.

@@ -47,6 +47,11 @@ Special thanks to:
 - ASUS
 - [@RazaDroid](https://github.com/DelightReza)
 - [@danascape](https://github.com/danascape)
+- [@althafvly](https://github.com/althafvly)
+- [@Rohieth](https://t.me/Rohieth)
+- [@sairam1411](https://github.com/sairam1411)
+- [@Inder864](https://t.me/Inder864)
+- @p53mutant
 
 This archive simply preserves their work for future.
 
