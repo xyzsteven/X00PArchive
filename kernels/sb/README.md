@@ -27,6 +27,21 @@ StromBreaker kernel is a minimal, simple and clean kernel for the perfect balanc
 - Fixed up CPUidle and stuff 
 
 </details>
+<br/>
+
+| Version  | Build Date | Status   | Maintainer                                 | Downloads |
+| :------- | :--------- | :------- | :----------------------------------------- | :-------- |
+| 3.18-2.0 | 29/06/2020 | OFFICIAL | [@danascape](https://github.com/danascape) | [Sourceforge](https://sourceforge.net/projects/stormbreakerdevices/files/X00P/Stormbreaker-3.18-2.0-20200629-1657.zip/download)<br/> [Internet Archive](https://archive.org/download/x00p-archive/kernels/sb/Stormbreaker-3.18-2.0-20200629-1657.zip)
+
+<details><summary><strong>Changelog</strong></summary>
+
+- EAS as base.
+- Introduce s2idle to fix idle drain
+- Backport RCU sync, perf
+- Backport more rcu stuff 
+- Backport CPU cooling thermals from 4.9
+
+</details>
 
 ## Credits
 

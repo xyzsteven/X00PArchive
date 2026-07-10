@@ -51,8 +51,13 @@ SHRP is inspired by Material design 2 to bring the newest design to the native T
 N/A
 
 </details>
+<br/>
 
-<details><summary><strong>Screenshot</strong></summary>
+| Version | Build Date | Status     | Maintainer                                   | Downloads |
+| :------ | :--------- | :--------- | :------------------------------------------- | :-------- |
+| 2.3     | 18/06/2020 | UNOFFICIAL | [@RazaDroid](https://github.com/DelightReza) | [Internet Archive](https://archive.org/download/x00p-archive/recoveries/shrp/SHRP_v2.3_X00P-074518062020.zip)
+
+<details><summary><strong>Changelog</strong></summary>
 
 N/A
 
@@ -60,6 +65,6 @@ N/A
 
 ## Credits
 
-Special thanks to [@danascape](https://github.com/danascape) as maintainer and contributor of [SkyHawk Recovery Project (SHRP)](https://github.com/SHRP) who helped the ASUS Zenfone Max M1 alive throughout the Android development community.
+Special thanks to [@danascape](https://github.com/danascape), [@RazaDroid](https://github.com/DelightReza) as maintainer and contributor of [SkyHawk Recovery Project (SHRP)](https://github.com/SHRP) who helped the ASUS Zenfone Max M1 alive throughout the Android development community.
 
 This archive simply preserves their work for future.

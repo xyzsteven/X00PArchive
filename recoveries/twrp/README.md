@@ -50,6 +50,18 @@ fastboot oem reboot-recovery
 - Update Prebuilt Kernel From Stock Pie
 
 </details>
+<br/>
+
+| Version | Build Date | Status   | Maintainer                                   | Downloads |
+| :------ | :--------- | :------- | :------------------------------------------- | :-------- |
+| 3.4.0   | 25/06/2020 | OFFICIAL | [@RazaDroid](https://github.com/DelightReza) | [TWRP Official](https://dl.twrp.me/X00P/twrp-3.4.0-0-X00P.img.html)<br/> [Internet Archive](https://archive.org/download/x00p-archive/recoveries/twrp/twrp-3.4.0-0-X00P.img)
+
+<details><summary><strong>Changelog</strong></summary>
+
+- TWRP Version 3.4.0
+- Force Use BusyBox
+
+</details>
 
 ## Credits
 

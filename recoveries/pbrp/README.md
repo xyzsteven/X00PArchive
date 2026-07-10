@@ -145,6 +145,45 @@ N/A
 - Fixed Firmware Flashing
 
 </details>
+<br/>
+
+| Version | Build Date | Status   | Maintainer                                   | Downloads |
+| :------ | :--------- | :------- | :------------------------------------------- | :-------- |
+| 2.9.1   | 09/06/2020 | OFFICIAL | [@RazaDroid](https://github.com/DelightReza) | [Sourceforge](https://sourceforge.net/projects/pbrp/files/X00P/PitchBlack-X00P-2.9.1-20200609-0528-OFFICIAL.zip/download)<br/> [Internet Archive](https://archive.org/download/x00p-archive/recoveries/pbrp/PitchBlack-X00P-2.9.1-20200609-0528-OFFICIAL.zip)
+
+<details><summary><strong>Changelog</strong></summary>
+
+- Based on TWRP 3.4.0
+
+</details>
+<br/>
+
+| Version | Build Date | Status     | Maintainer                                   | Downloads |
+| :------ | :--------- | :--------- | :------------------------------------------- | :-------- |
+| 2.9.1   | 12/06/2020 | UNOFFICIAL | [@RazaDroid](https://github.com/DelightReza) | [Internet Archive](https://archive.org/download/x00p-archive/recoveries/pbrp/PitchBlack_X00P_2.9.1_20200612_2312_UNOFFICIAL.zip)
+
+<details><summary><strong>Changelog</strong></summary>
+
+- N/A
+
+</details>
+<details><summary><strong>Notes</strong></summary>
+
+PitchBlack V2.9.1 for Android 8 Oreo
+
+</details>
+<br/>
+
+| Version | Build Date | Status   | Maintainer                                   | Downloads |
+| :------ | :--------- | :------- | :------------------------------------------- | :-------- |
+| 2.9.1   | 13/06/2020 | OFFICIAL | [@RazaDroid](https://github.com/DelightReza) | [Sourceforge](https://sourceforge.net/projects/pbrp/files/X00P/PitchBlack-X00P-2.9.1-20200613-0011-OFFICIAL.zip/download)<br/> [Internet Archive](https://archive.org/download/x00p-archive/recoveries/pbrp/PitchBlack-X00P-2.9.1-20200613-0011-OFFICIAL.zip)
+
+<details><summary><strong>Changelog</strong></summary>
+
+- Fixed flashlight
+
+</details>
+
 
 ## Credits
 

@@ -15,6 +15,11 @@ This section contains archived custom Android distributions developed for the **
 - [Havoc-OS](./havoc/)
 - [AtomOS](./atom/)
 - [DerpFest](./derp/)
+- [ArrowOS](./arrow/)
+- [CesiumOS](./cesium/)
+- [Evolution X](./evox/)
+- [ion OS](./ion/)
+- [Corvus OS](./corvus/)
 
 ## Credits
 

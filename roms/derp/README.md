@@ -51,6 +51,29 @@ We are an AOSP based custom ROM, twisted with the latest features from all over 
   </tr>
 </table>
 </details>
+<br/>
+
+| Version | Build Date | Status     | Maintainer                         | Downloads |
+| :------ | :--------- | :--------- | :--------------------------------- | :-------- |
+| 10      | 19/06/2020 | UNOFFICIAL | [@Inder864](https://t.me/Inder864) | [Internet Archive](https://archive.org/download/x00p-archive/roms/derp/DerpFest-10-Community-X00P-20200613.zip)
+
+<details><summary><strong>Changelog</strong></summary>
+
+- LED fixed
+- Front flash fixed
+- Security patch updated
+- Battery drain issue fixed
+
+</details>
+<details><summary><strong>Notes</strong></summary>
+
+- USE LATEST TWRP ONLY
+- If you faced any issue or Bug, report it in main group with a logcat attached ( go to google and search matlog or adb and learn how to take logs)
+- ROM does have GAPPS, so don't flash gapps.
+- After booting into system, go to Developer Options > Feature Flags and enable every flag which can be enabled for a better network and performance.
+- Disable cam2api from build.prop if facing green tint issue.
+
+</details>
 
 ## Credits
 

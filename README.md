@@ -5,7 +5,7 @@
 ![Archive](https://img.shields.io/badge/Purpose-Archive-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-This repo dedicated to archive preserving Firmware, Custom ROMs, Kernels, Recovery for the ASUS Zenfone Max M1 (X00P/X00PD).
+This repo dedicated to archive preserving Firmwares, Custom ROMs, Kernels, Recoveries for the ASUS Zenfone Max M1 (X00P/X00PD).
 
 
 ## About
@@ -52,6 +52,8 @@ Special thanks to:
 - [@sairam1411](https://github.com/sairam1411)
 - [@Inder864](https://t.me/Inder864)
 - @p53mutant
+- [@prateeksriv1998](https://t.me/prateeksriv1998)
+- [@flamefusion](https://github.com/Flamefusion)
 
 This archive simply preserves their work for future.
 

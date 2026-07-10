@@ -35,6 +35,34 @@ All the source code for LineageOS is available in the LineageOS Github repo. And
 - Reboot
 
 ## Downloads
+### Android 9
+| Version | Build Date | Status     | Maintainer                                 | Downloads |
+| :------ | :--------- | :--------- | :----------------------------------------- | :-------- |
+| 16.0    | 27/06/2020 | UNOFFICIAL | [@danascape](https://github.com/danascape) | [Sourceforge](https://sourceforge.net/projects/zenfone-max-m1-files/files/lineage/lineage-16.0-20200627-UNOFFICIAL-X00P.zip/download)<br/> [Internet Archive](https://archive.org/download/x00p-archive/roms/los/lineage-16.0-20200627-UNOFFICIAL-X00P.zip)
+
+<details><summary><strong>Changelog</strong></summary>
+
+- N/A
+
+</details>
+<details><summary><strong>Notes</strong></summary>
+
+- USE LATEST TWRP ONLY
+- If you faced any issue or Bug, report it in main group with a logcat attached ( go to google and search matlog or adb and learn how to take logs)
+- ROM doesn't have GAPPS, so flash Nano or Pico gapps.
+
+</details>
+</details>
+<details><summary><strong>Screenshot</strong></summary>
+<table>
+  <tr>
+    <td colspan="1"><a href="assets/img/27062020/1.jpg"><img src="assets/img/27062020/1.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/27062020/2.jpg"><img src="assets/img/27062020/2.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/27062020/3.jpg"><img src="assets/img/27062020/3.jpg" width="250"></a></td>
+  </tr>
+</table>
+</details>
+
 ### Android 10
 | Version | Build Date | Status     | Maintainer                                   | Downloads |
 | :------ | :--------- | :--------- | :------------------------------------------- | :-------- |
@@ -55,9 +83,28 @@ All the source code for LineageOS is available in the LineageOS Github repo. And
 - ROM doesn't have GAPPS, so flash Nano or Pico gapps.
 
 </details>
+<br/>
+
+| Version | Build Date | Status     | Maintainer                                 | Downloads |
+| :------ | :--------- | :--------- | :----------------------------------------- | :-------- |
+| 17.1    | 19/06/2020 | UNOFFICIAL | [@althafvly](https://github.com/althafvly) | [Internet Archive](https://archive.org/download/x00p-archive/roms/los/lineage-17.1-20200619-UNOFFICIAL-X00P.zip)
+
+<details><summary><strong>Changelog</strong></summary>
+
+- Thermal fixes (might improve battery backup)
+- RIL fixes
+
+</details>
+<details><summary><strong>Notes</strong></summary>
+
+- USE LATEST TWRP ONLY
+- If you faced any issue or Bug, report it in main group with a logcat attached ( go to google and search matlog or adb and learn how to take logs)
+- ROM doesn't have GAPPS, so flash Nano or Pico gapps.
+
+</details>
 
 ## Credits
 
-Special thanks to [@RazaDroid](https://github.com/DelightReza) as maintainer and contributor of [LineageOS](https://github.com/lineageos) who helped the ASUS Zenfone Max M1 alive throughout the Android development community.
+Special thanks to [@RazaDroid](https://github.com/DelightReza), [@althafvly](https://github.com/althafvly), [@danascape](https://github.com/danascape) as maintainer and contributor of [LineageOS](https://github.com/lineageos) who helped the ASUS Zenfone Max M1 alive throughout the Android development community.
 
 This archive simply preserves their work for future.
