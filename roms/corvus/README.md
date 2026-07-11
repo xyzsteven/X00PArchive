@@ -270,6 +270,162 @@ Corvus OS is another retarded ROM with many retarded Customization. First, it's 
   </tr>
 </table>
 </details>
+<br/>
+
+| Version | Build Date | Status   | Maintainer                                     | Downloads |
+| :------ | :--------- | :------- | :--------------------------------------------- | :-------- |
+| 7.5     | 29/07/2020 | OFFICIAL | [@flamefusion](https://github.com/Flamefusion) | [Internet Archive](https://archive.org/download/x00p-archive/roms/corvus/Corvus_v7.5-OMEN-X00P-29072020-OFFICIAL-0316.zip)
+
+<details><summary><strong>Changelog</strong></summary>
+
+### ROM Changelog
+- Source upstream to version 7.5-OMEN
+- New System wide animation
+- We have DISCO Now
+- New lock screen font implementation
+- New music QS tile
+- Updated volume panel version 1.1
+- New icon shapes From Android R 
+- Added litto animation
+
+### Device Changelog:
+- Fix Nightlight
+- Volte Now works on 2nd SIM (thanx to @RazaDroid)
+- Added Pixel charging animation
+- Fix idle drain (thanx to @danascape)
+- Upgraded bofela wake lock in kernel to 1.1
+- Added Enhanced sound and optimized sound control to kernel
+- Updated IOP and ADSP blobs
+- Implementation of Thermal cooling
+- Update display config to 1.9
+- Add support for 32/48KHz voip
+- (Hot-Fix) VOLTE FIX FOR SOME USERS
+- (Hot-Fix) Fix No Audio while in call for some carriers
+
+</details>
+<details><summary><strong>Notes</strong></summary>
+
+- USE LATEST TWRP ONLY
+- If you faced any issue or Bug, report it in main group with a logcat attached (go to Google and search Matlog or ADB and learn how to take logs)
+- ROM doesn't have GAPPS, so do flash Nano or Pico OpenGapps.
+
+</details>
+<details><summary><strong>Screenshot</strong></summary>
+<table>
+  <tr>
+    <td colspan="1"><a href="assets/img/29072020/1.jpg"><img src="assets/img/29072020/1.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/29072020/2.jpg"><img src="assets/img/29072020/2.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/29072020/3.jpg"><img src="assets/img/29072020/3.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/29072020/4.jpg"><img src="assets/img/29072020/4.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/29072020/5.jpg"><img src="assets/img/29072020/5.jpg" width="250"></a></td>
+  </tr>
+  <tr>
+    <td colspan="1"><a href="assets/img/29072020/6.jpg"><img src="assets/img/29072020/6.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/29072020/7.jpg"><img src="assets/img/29072020/7.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/29072020/8.jpg"><img src="assets/img/29072020/8.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/29072020/9.jpg"><img src="assets/img/29072020/9.jpg" width="250"></a></td>
+  </tr>
+</table>
+</details>
+<br/>
+
+| Version | Build Date | Status   | Maintainer                                     | Downloads |
+| :------ | :--------- | :------- | :--------------------------------------------- | :-------- |
+| 8.0     | 08/08/2020 | OFFICIAL | [@flamefusion](https://github.com/Flamefusion) | [Internet Archive](https://archive.org/download/x00p-archive/roms/corvus/Corvus_v8.0-Tsushima-X00P-Gapps-08082020-OFFICIAL-1316.zip)
+
+<details><summary><strong>Changelog</strong></summary>
+
+- Fixed Multi-user 
+- Fixed some crash reports in logs
+- Implemented prebuilt dts
+- Builded separate system and vendor HIDL libs
+- Implemented full VNDK
+- Converted light HALs into a native binderized HAL
+- Used AOSP and native audio
+- Added support for battery-health
+- For better battery-life reverted illegal boosting of Gold cluster and silver cluster
+- Reverted remove to jump max
+- Updated CAF graphics blob in vendor
+
+</details>
+<details><summary><strong>Notes</strong></summary>
+
+- USE LATEST TWRP ONLY
+- If you faced any issue or Bug, report it in main group with a logcat attached (go to Google and search Matlog or ADB and learn how to take logs)
+- ROM does have GAPPS, so don't flash any Gapps.
+
+</details>
+<details><summary><strong>Screenshot</strong></summary>
+<table>
+  <tr>
+    <td colspan="1"><a href="assets/img/08082020/1.jpg"><img src="assets/img/08082020/1.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/08082020/2.jpg"><img src="assets/img/08082020/2.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/08082020/3.jpg"><img src="assets/img/08082020/3.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/08082020/4.jpg"><img src="assets/img/08082020/4.jpg" width="250"></a></td>
+  </tr>
+</table>
+</details>
+<br/>
+
+| Version | Build Date | Status   | Maintainer                                     | Downloads |
+| :------ | :--------- | :------- | :--------------------------------------------- | :-------- |
+| 8.5     | 25/08/2020 | OFFICIAL | [@flamefusion](https://github.com/Flamefusion) | [Pling](https://www.pling.com/p/1401370#files-panel)<br/>[Internet Archive (Vanilla)](https://archive.org/download/x00p-archive/roms/corvus/Corvus_v8.5-Sage-X00P-25082020-OFFICIAL-1646.zip)<br/>[Internet Archive (GApps)](https://archive.org/download/x00p-archive/roms/corvus/Corvus_v8.5-Sage-X00P-Gapps-25082020-OFFICIAL-1526.zip)
+
+<details><summary><strong>Changelog</strong></summary>
+
+- Source Bump to 8.5-Sage
+- Added Prebuilt Moto Dolby
+- Force disabled cds module in camera to fix green artifacts in some camera app
+- Update ramdisk from UL
+- Import FM blobs from UL
+- Import hbtp blobs from UL
+- Added Prebuilt Pixel 4 live wallpaper
+- Enabled Adaptive sleep
+- Added support for AudioFX equilizer
+- Brought Back ZenParts with Sound Control, Ambient gesture, Spectrum,
+- Display Calibration, FPS-info overlay, Vibration control
+- Yeah Finally Fixed reboot issue for some users who were facing when connected to WiFi
+- Many more performance improvement under the hood
+
+</details>
+<details><summary><strong>Notes</strong></summary>
+
+- USE LATEST TWRP ONLY
+- If you faced any issue or Bug, report it in main group with a logcat attached 
+
+</details>
+<br/>
+
+| Version | Build Date | Status   | Maintainer                                     | Downloads |
+| :------ | :--------- | :------- | :--------------------------------------------- | :-------- |
+| 9.0     | 13/09/2020 | OFFICIAL | [@flamefusion](https://github.com/Flamefusion) | [Internet Archive (Vanilla)](https://archive.org/download/x00p-archive/roms/corvus/Corvus_v9.0-EndGame-X00P-12092020-OFFICIAL-2303.zip)<br/>[Internet Archive (GApps)](https://archive.org/download/x00p-archive/roms/corvus/Corvus_v9.0-EndGame-X00P-Gapps-12092020-OFFICIAL-1911.zip)
+
+<details><summary><strong>Changelog</strong></summary>
+
+- N/A
+
+</details>
+<details><summary><strong>Notes</strong></summary>
+
+- USE LATEST TWRP ONLY
+- If you faced any issue or Bug, report it in main group with a logcat attached (go to Google and search Matlog or ADB and learn how to take logs)
+
+</details>
+<details><summary><strong>Screenshot</strong></summary>
+<table>
+  <tr>
+    <td colspan="1"><a href="assets/img/13092020/1.jpg"><img src="assets/img/13092020/1.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/13092020/2.jpg"><img src="assets/img/13092020/2.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/13092020/3.jpg"><img src="assets/img/13092020/3.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/13092020/4.jpg"><img src="assets/img/13092020/4.jpg" width="250"></a></td>
+  </tr>
+    <td colspan="1"><a href="assets/img/13092020/5.jpg"><img src="assets/img/13092020/5.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/13092020/6.jpg"><img src="assets/img/13092020/6.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/13092020/7.jpg"><img src="assets/img/13092020/7.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/13092020/8.jpg"><img src="assets/img/13092020/8.jpg" width="250"></a></td>
+  </tr>
+</table>
+</details>
 
 ## Credits
 

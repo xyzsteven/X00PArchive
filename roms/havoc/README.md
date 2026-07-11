@@ -58,6 +58,50 @@ Havoc-OS is an after-market firmware based on Android Open Source Project, inspi
   </tr>
 </table>
 </details>
+<br/>
+
+| Version | Build Date | Status     | Maintainer                                   | Downloads |
+| :------ | :--------- | :--------- | :------------------------------------------- | :-------- |
+| 3.9     | 30/09/2020 | UNOFFICIAL | [@sairam1411](https://github.com/sairam1411) | [Internet Archive](https://archive.org/download/x00p-archive/roms/havoc/Havoc-OS-v3.9-20200929-X00P-Unofficial.zip)
+
+<details><summary><strong>Changelog</strong></summary>
+
+- Added offline miui charging animation
+- Build with latest Saalim trees
+
+</details>
+<details><summary><strong>Notes</strong></summary>
+
+- USE LATEST TWRP ONLY
+- CLEAN FLASH NECESSARY
+- If you faced any issue or Bug, report it in main group with a logcat attached (go to Google and search Matlog or ADB and learn how to take logs)
+- ROM doesn't have GAPPS, so do flash Nano or Pico Gapps
+
+</details>
+<details><summary><strong>Screenshot</strong></summary>
+<table>
+  <tr>
+    <td colspan="1"><a href="assets/img/30092020/1.jpg"><img src="assets/img/30092020/1.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/30092020/2.jpg"><img src="assets/img/30092020/2.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/30092020/3.jpg"><img src="assets/img/30092020/3.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/30092020/4.jpg"><img src="assets/img/30092020/4.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/30092020/5.jpg"><img src="assets/img/30092020/5.jpg" width="250"></a></td>
+  </tr>
+  <tr>
+    <td colspan="1"><a href="assets/img/30092020/6.jpg"><img src="assets/img/30092020/6.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/30092020/7.jpg"><img src="assets/img/30092020/7.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/30092020/8.jpg"><img src="assets/img/30092020/8.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/30092020/9.jpg"><img src="assets/img/30092020/9.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/30092020/10.jpg"><img src="assets/img/30092020/10.jpg" width="250"></a></td>
+  </tr>
+  <tr>
+    <td colspan="1"><a href="assets/img/30092020/11.jpg"><img src="assets/img/30092020/11.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/30092020/12.jpg"><img src="assets/img/30092020/12.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/30092020/13.jpg"><img src="assets/img/30092020/13.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/30092020/14.jpg"><img src="assets/img/30092020/14.jpg" width="250"></a></td>
+  </tr>
+</table>
+</details>
 
 ## Credits
 

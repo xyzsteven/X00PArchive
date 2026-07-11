@@ -183,7 +183,45 @@ PitchBlack V2.9.1 for Android 8 Oreo
 - Fixed flashlight
 
 </details>
+<br/>
 
+| Version | Build Date | Status   | Maintainer                                   | Downloads |
+| :------ | :--------- | :------- | :------------------------------------------- | :-------- |
+| 2.9.1   | 15/07/2020 | OFFICIAL | [@RazaDroid](https://github.com/DelightReza) | [Sourceforge](https://sourceforge.net/projects/pbrp/files/X00P/PitchBlack-X00P-2.9.1-20200715-1222-OFFICIAL.zip/download)<br/> [Internet Archive](https://archive.org/download/x00p-archive/recoveries/pbrp/PitchBlack-X00P-2.9.1-20200715-1222-OFFICIAL.zip)
+
+<details><summary><strong>Changelog</strong></summary>
+
+- Disable Treble Compatibility Check By Default
+
+</details>
+<br/>
+
+| Version | Build Date | Status   | Maintainer                                   | Downloads |
+| :------ | :--------- | :------- | :------------------------------------------- | :-------- |
+| 3.0     | 28/07/2020 | OFFICIAL | [@RazaDroid](https://github.com/DelightReza) | [Sourceforge](https://sourceforge.net/projects/pbrp/files/X00P/PBRP-X00P-3.0-20200728-2144-OFFICIAL.zip/download)<br/> [Internet Archive](https://archive.org/download/x00p-archive/recoveries/pbrp/PBRP-X00P-3.0-20200728-2144-OFFICIAL.zip)
+
+<details><summary><strong>Changelog</strong></summary>
+
+- Bringup 3.0 
+- Source side changes 
+- Fully Redesigned UI 
+- New Android like Power Menu (Activated via power key hold) 
+- Flashlight toggled by Vol up(+) on hold 
+- Flashlight toggle on Lockscreen 
+- Etc.
+
+</details>
+<br/>
+
+| Version | Build Date | Status   | Maintainer                                   | Downloads |
+| :------ | :--------- | :------- | :------------------------------------------- | :-------- |
+| 3.0     | 04/08/2020 | OFFICIAL | [@RazaDroid](https://github.com/DelightReza) | [Sourceforge](https://sourceforge.net/projects/pbrp/files/X00P/PBRP-X00P-3.0.0-20200804-1432-OFFICIAL.zip/download)<br/> [Internet Archive](https://archive.org/download/x00p-archive/recoveries/pbrp/PBRP-X00P-3.0.0-20200804-1432-OFFICIAL.zip)
+
+<details><summary><strong>Changelog</strong></summary>
+
+- Add nano Editor
+
+</details>
 
 ## Credits
 

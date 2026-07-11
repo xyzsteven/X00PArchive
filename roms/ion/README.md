@@ -123,6 +123,34 @@ ion is based on AOSP including Pixel Goodies & lots of customizations.
   </tr>
 </table>
 </details>
+<br/>
+
+| Version | Build Date | Status   | Maintainer                         | Downloads |
+| :------ | :--------- | :------- | :--------------------------------- | :-------- |
+| 2.9.a   | 27/08/2020 | OFFICIAL | [@Inder864](https://t.me/Inder864) | [Internet Archive](https://archive.org/download/x00p-archive/roms/ion/ion-2.9.a-EOL-X00P-20200827-0449-OFFICIAL-Release.zip)
+
+<details><summary><strong>Changelog</strong></summary>
+
+- Dropped eas implementation
+- Dropped full vndk
+- Boosted audio output
+- Say bye to Black screen & loops.
+
+</details>
+<details><summary><strong>Notes</strong></summary>
+
+- USE LATEST TWRP ONLY
+- If you faced any issue or Bug, report it in main group with a logcat attached (go to Google and search Matlog or ADB and learn how to take logs)
+- ROM does have GAPPS, so don't flash any Gapps.
+
+</details>
+<details><summary><strong>Screenshot</strong></summary>
+<table>
+  <tr>
+    <td colspan="1"><a href="assets/img/27082020/1.jpg"><img src="assets/img/27082020/1.jpg" width="250"></a></td>
+  </tr>
+</table>
+</details>
 
 ## Credits
 

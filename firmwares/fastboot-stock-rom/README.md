@@ -20,6 +20,19 @@
 - Do run proper flash files according to your Variant, else you will brick your device.
 
 </details>
+<br/>
+
+| Device       | Codename | Version        | Android | Downloads |
+| :----------- | :------- | :------------- | :------ | :-------- |
+| X00PINGlobal | X00P     | 15.00.2007.122 | 8.0     | [Internet Archive](https://archive.org/download/x00p-archive/firmwares/fastboot-stock-rom/WW_ZB555KL_15.00.2007.122-20200619-132387912517539301.zip)
+<details><summary><strong>Notes</strong></summary>
+
+- Thanks to @p53mutant
+- Bootloader won't be relocked.
+- Use Proper USB Connection. Don't interrupt the flash else your device might brick.
+- Do run proper flash files according to your Variant, else you will brick your device.
+
+</details>
 
 ## Credits
 

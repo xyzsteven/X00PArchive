@@ -102,6 +102,29 @@ All the source code for LineageOS is available in the LineageOS Github repo. And
 - ROM doesn't have GAPPS, so flash Nano or Pico gapps.
 
 </details>
+<br/>
+
+| Version | Build Date | Status     | Maintainer                                   | Downloads |
+| :------ | :--------- | :--------- | :------------------------------------------- | :-------- |
+| 17.1    | 16/07/2020 | UNOFFICIAL | [@RazaDroid](https://github.com/DelightReza) | [Sourceforge](https://sourceforge.net/projects/razadroidproject/files/X00P/lineageos/lineage-17.1-20200716-UNOFFICIAL-X00P.zip/download)<br/>[Internet Archive](https://archive.org/download/x00p-archive/roms/los/lineage-17.1-20200716-UNOFFICIAL-X00P.zip)
+
+<details><summary><strong>Changelog</strong></summary>
+
+- Fixed Sim 2 Volte Switch
+- Update Blobs from daisy
+- Fixed Notification LED
+- July Security Patch
+- Fixed Fingerprint
+- Fixed Front Flashlight
+
+</details>
+<details><summary><strong>Notes</strong></summary>
+
+- USE LATEST TWRP ONLY
+- If you faced any issue or Bug, report it in main group with a logcat attached (go to Google and search Matlog or ADB and learn how to take logs)
+- ROM doesn't have GAPPS, so do flash Nano or Pico OpenGapps.
+
+</details>
 
 ## Credits
 
