@@ -33,12 +33,12 @@ It was announced on February, 2018.
 
 ## Archived Resources
 
-| Category                  | Description                 |
-| :------------------------ | :-------------------------- |
-| [Firmware](/firmwares/)   | Official ASUS firmware      |
-| [ROMs](/roms/)            | Custom Android distributions|
-| [Kernels](/kernels/)      | Community-developed kernels |
-| [Recoveries](/recoveries/) | TWRP, OrangeFox, SHRP, etc. |
+| Category                             | Description                 |
+| :----------------------------------- | :-------------------------- |
+| [Firmwares](/firmwares/README.md)    | Official ASUS firmware      |
+| [ROMs](/roms/README.md)              | Custom Android distributions|
+| [Kernels](/kernels/README.md)        | Community-developed kernels |
+| [Recoveries](/recoveries/README.md)  | TWRP, OrangeFox, SHRP, etc. |
 
 ## Credits
 This repository exists thanks to countless developers and contributors from the Android modding community.
