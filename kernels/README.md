@@ -8,7 +8,7 @@ This section contains archived custom Kernels distributions developed for the **
 
 ## Available Kernels
 
-- [StormBreaker Kernel](./sb/)
+- [StormBreaker Kernel](./sb/README.md)
 
 ## Credits
 

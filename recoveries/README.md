@@ -8,10 +8,11 @@ This section contains archived custom Recoveries distributions developed for the
 
 ## Available Recoveries
 
-- [PitchBlack Recovery Project (PBRP)](./pbrp/)
-- [SkyHawk Recovery Project (SHRP)](./shrp/)
-- [Team Win Recovery Project (TWRP)](./twrp/)
-- [OrangeFox Recovery Project (OFRP)](./ofrp/)
+- [PitchBlack Recovery Project (PBRP)](./pbrp/README.md)
+- [SkyHawk Recovery Project (SHRP)](./shrp/README.md)
+- [Team Win Recovery Project (TWRP)](./twrp/README.md)
+- [OrangeFox Recovery Project (OFRP)](./ofrp/README.md)
+- [Batik Recovery Project (BRP)](./brp/README.md)
 
 ## Credits
 

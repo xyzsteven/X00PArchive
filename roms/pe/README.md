@@ -41,6 +41,59 @@ Pixel Experience is an AOSP based ROM, with Google apps included and all Pixel g
   </tr>
 </table>
 </details>
+</br>
+
+| Version             | Build Date | Status   | Maintainer                                 | Downloads |
+| :------------------ | :--------- | :------- | :----------------------------------------- | :-------- |
+| 10 (Plus edition)   | 09/12/2020 | OFFICIAL | [@danascape](https://github.com/danascape) | [Internet Archive](https://archive.org/download/x00p-archive/roms/pe/PixelExperience_Plus_X00P-10.0-20201209-0502-OFFICIAL.zip)
+
+<details><summary><strong>Changelog</strong></summary>
+
+- N/A
+
+</details>
+<details><summary><strong>Notes</strong></summary>
+
+- USE LATEST TWRP ONLY
+- CLEAN FLASH NECESSARY
+- If you faced any issue or Bug, report it in main group with a logcat attached (go to Google and search Matlog or ADB and learn how to take logs)
+- ROM does have GAPPS, so don't flash any Gapps
+
+</details>
+<details><summary><strong>Screenshot</strong></summary>
+<table>
+  <tr>
+    <td colspan="1"><a href="assets/img/09122020/1.jpg"><img src="assets/img/09122020/1.jpg" width="250"></a></td>
+  </tr>
+</table>
+</details>
+
+### Android 11
+| Version   | Build Date | Status   | Maintainer                                 | Downloads |
+| :-------- | :--------- | :------- | :----------------------------------------- | :-------- |
+| 11 (BETA) | 22/12/2020 | OFFICIAL | [@danascape](https://github.com/danascape) | [Internet Archive](https://archive.org/download/x00p-archive/roms/pe/PixelExperience_X00P-11.0-20201222-0308-BETA-OFFICIAL.zip)
+
+<details><summary><strong>Changelog</strong></summary>
+
+- N/A
+
+</details>
+<details><summary><strong>Notes</strong></summary>
+
+- USE LATEST TWRP ONLY
+- CLEAN FLASH NECESSARY
+- If you faced any issue or Bug, report it in main group with a logcat attached (go to Google and search Matlog or ADB and learn how to take logs)
+- ROM does have GAPPS, so don't flash any Gapps
+
+</details>
+<details><summary><strong>Screenshot</strong></summary>
+<table>
+  <tr>
+    <td colspan="1"><a href="assets/img/22122020/1.jpg"><img src="assets/img/22122020/1.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/22122020/2.jpg"><img src="assets/img/22122020/2.jpg" width="250"></a></td>
+  </tr>
+</table>
+</details>
 
 ## Credits
 

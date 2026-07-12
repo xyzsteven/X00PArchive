@@ -54,6 +54,7 @@ Special thanks to:
 - @p53mutant
 - [@prateeksriv1998](https://t.me/prateeksriv1998)
 - [@flamefusion](https://github.com/Flamefusion)
+- [@NewbieDeveloper](https://t.me/NewbieDevProject)
 
 This archive simply preserves their work for future.
 
