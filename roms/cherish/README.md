@@ -16,8 +16,8 @@ CherishOS is a beautiful ROM based on AOSP and Pixel with good quality of featur
 
 ## Downloads
 ### Android 11
-| Version | Build Date | Status   | Maintainer                                        | Downloads |
-| :------ | :--------- | :------- | :------------------------------------------------ | :-------- |
+| Version | Build Date | Status   | Maintainer                                         | Downloads |
+| :------ | :--------- | :------- | :------------------------------------------------- | :-------- |
 | 2.0     | 26/11/2020 | OFFICIAL | [@dhimanparas20](https://github.com/dhimanparas20) | [Internet Archive](https://archive.org/download/x00p-archive/roms/cherish/Cherish-OS-v2.0-20201126-1826-X00P-Official-GApps.zip)
 
 <details><summary><strong>Changelog</strong></summary>

@@ -55,6 +55,7 @@ Special thanks to:
 - [@prateeksriv1998](https://t.me/prateeksriv1998)
 - [@flamefusion](https://github.com/Flamefusion)
 - [@NewbieDeveloper](https://t.me/NewbieDevProject)
+- [@dhimanparas20](https://github.com/dhimanparas20)
 
 This archive simply preserves their work for future.
 
