@@ -82,9 +82,70 @@ Many things that in previous versions were tweaked with mods, are now included b
 - ROM doesn't have GAPPS, so do flash Nano or Pico OpenGapps
 
 </details>
+<br/>
+
+| Version | Build Date | Status     | Maintainer                                         | Downloads |
+| :------ | :--------- | :--------- | :------------------------------------------------- | :-------- |
+| 8.6.7   | 16/03/2021 | UNOFFICIAL | [@dhimanparas20](https://github.com/dhimanparas20) | [Internet Archive](https://archive.org/download/x00p-archive/roms/rr/RROS-Q-8.6.7-20210316-X00P-Unofficial-VANILLA.zip)
+
+<details><summary><strong>Changelog</strong></summary>
+
+- Initial build
+
+</details>
+<details><summary><strong>Bugs</strong></summary>
+
+- LED ded
+
+</details>
+<details><summary><strong>Steps to flash (Important)</strong></summary>
+
+1. Download [Pixel Experience 10](/roms/pe/README.md) rom
+2. Download CherishOs
+3. Reboot to recovery
+4. Wipe 5 partions except internal storage and external storage
+5. Flash pixel experience 10 rom  (Most important)
+6. After flashing manually reboot To recovery again (don't reboot To system)
+7. Then hit on backup and take Backup of vendor image
+8. Wipe 5 partions again as point (4)
+9. Flash CherishOs zip
+10. After flashing hit on home  Button and hit on restore
+11. Restore your backed-up vendor  Image
+12. Now reboot to system
+13. After first boot flash magisk Version 21.4 or above if u want Root access.
+</details>
+<details><summary><strong>Notes</strong></summary>
+
+- USE LATEST TWRP ONLY
+- If you faced any issue or Bug, report it in main group with a logcat attached (go to Google and search Matlog or ADB and learn how to take logs)
+- ROM doesn't have GAPPS, so do flash Nano or Pico OpenGapps.
+
+</details>
+<details><summary><strong>Screenshot</strong></summary>
+<table>
+  <tr>
+    <td colspan="1"><a href="assets/img/16032021/1.jpg"><img src="assets/img/16032021/1.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/16032021/2.jpg"><img src="assets/img/16032021/2.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/16032021/3.jpg"><img src="assets/img/16032021/3.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/16032021/4.jpg"><img src="assets/img/16032021/4.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/16032021/5.jpg"><img src="assets/img/16032021/5.jpg" width="250"></a></td>
+  </tr>
+    <td colspan="1"><a href="assets/img/16032021/6.jpg"><img src="assets/img/16032021/6.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/16032021/7.jpg"><img src="assets/img/16032021/7.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/16032021/8.jpg"><img src="assets/img/16032021/8.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/16032021/9.jpg"><img src="assets/img/16032021/9.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/16032021/10.jpg"><img src="assets/img/16032021/10.jpg" width="250"></a></td>
+  </tr>
+    <td colspan="1"><a href="assets/img/16032021/11.jpg"><img src="assets/img/16032021/11.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/16032021/12.jpg"><img src="assets/img/16032021/12.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/16032021/13.jpg"><img src="assets/img/16032021/13.jpg" width="250"></a></td>
+    <td colspan="1"><a href="assets/img/16032021/14.jpg"><img src="assets/img/16032021/14.jpg" width="250"></a></td>
+  </tr>
+</table>
+</details>
 
 ## Credits
 
-Special thanks to [@flamefusion](https://github.com/Flamefusion) as maintainer and contributor of [Resurrection Remix OS](https://github.com/ResurrectionRemix) who helped the ASUS Zenfone Max M1 alive throughout the Android development community.
+Special thanks to [@flamefusion](https://github.com/Flamefusion), [@dhimanparas20](https://github.com/dhimanparas20) as maintainer and contributor of [Resurrection Remix OS](https://github.com/ResurrectionRemix) who helped the ASUS Zenfone Max M1 alive throughout the Android development community.
 
 This archive simply preserves their work for future.

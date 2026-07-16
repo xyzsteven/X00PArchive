@@ -215,11 +215,34 @@ PitchBlack V2.9.1 for Android 8 Oreo
 
 | Version | Build Date | Status   | Maintainer                                   | Downloads |
 | :------ | :--------- | :------- | :------------------------------------------- | :-------- |
-| 3.0     | 04/08/2020 | OFFICIAL | [@RazaDroid](https://github.com/DelightReza) | [Sourceforge](https://sourceforge.net/projects/pbrp/files/X00P/PBRP-X00P-3.0.0-20200804-1432-OFFICIAL.zip/download)<br/> [Internet Archive](https://archive.org/download/x00p-archive/recoveries/pbrp/PBRP-X00P-3.0.0-20200804-1432-OFFICIAL.zip)
+| 3.0.0   | 04/08/2020 | OFFICIAL | [@RazaDroid](https://github.com/DelightReza) | [Sourceforge](https://sourceforge.net/projects/pbrp/files/X00P/PBRP-X00P-3.0.0-20200804-1432-OFFICIAL.zip/download)<br/> [Internet Archive](https://archive.org/download/x00p-archive/recoveries/pbrp/PBRP-X00P-3.0.0-20200804-1432-OFFICIAL.zip)
 
 <details><summary><strong>Changelog</strong></summary>
 
 - Add nano Editor
+
+</details>
+<br/>
+
+| Version | Build Date | Status   | Maintainer                                   | Downloads |
+| :------ | :--------- | :------- | :------------------------------------------- | :-------- |
+| 3.0.0   | 27/01/2021 | OFFICIAL | [@RazaDroid](https://github.com/DelightReza) | [Sourceforge](https://sourceforge.net/projects/pbrp/files/X00P/PBRP-X00P-3.0.0-20210127-0504-OFFICIAL.zip/download)<br/> [Internet Archive](https://archive.org/download/x00p-archive/recoveries/pbrp/PBRP-X00P-3.0.0-20210127-0504-OFFICIAL.zip)
+
+<details><summary><strong>Changelog</strong></summary>
+
+- Based on TWRP "3.5.0"
+- Add Support To Decrypt Android 11
+
+</details>
+<br/>
+
+| Version | Build Date | Status   | Maintainer                                   | Downloads |
+| :------ | :--------- | :------- | :------------------------------------------- | :-------- |
+| 3.0.0   | 05/02/2021 | OFFICIAL | [@RazaDroid](https://github.com/DelightReza) | [Sourceforge](https://sourceforge.net/projects/pbrp/files/X00P/PBRP-X00P-3.0.0-20210205-1007-OFFICIAL.zip/download)<br/> [Internet Archive](https://archive.org/download/x00p-archive/recoveries/pbrp/PBRP-X00P-3.0.0-20210205-1007-OFFICIAL.zip)
+
+<details><summary><strong>Changelog</strong></summary>
+
+- Add Support To Flash Persist IMG
 
 </details>
 

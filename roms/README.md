@@ -30,6 +30,8 @@ This section contains archived custom Android distributions developed for the **
 - [MIUI](./miui/README.md)
 - [CherishOS](./cherish/README.md)
 - [Bootleggers ROM](./btlg/README.md)
+- [Fork LineageOS](./flos/README.md)
+- [hentaiOS](./hios/README.md)
 
 ## Common Instructions for all ROMs
 

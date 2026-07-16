@@ -42,6 +42,33 @@ StromBreaker kernel is a minimal, simple and clean kernel for the perfect balanc
 - Backport CPU cooling thermals from 4.9
 
 </details>
+<br/>
+
+| Version   | Build Date | Status   | Maintainer                                 | Downloads |
+| :-------- | :--------- | :------- | :----------------------------------------- | :-------- |
+| 3.18 Beta | 02/02/2021 | OFFICIAL | [@danascape](https://github.com/danascape) | [Sourceforge](https://sourceforge.net/projects/stormbreakerdevices/files/X00P/Stormbreaker-3.18-beta-20210123-0959.zip/download)<br/> [Internet Archive](https://archive.org/download/x00p-archive/kernels/sb/Stormbreaker-3.18-beta-20210123-0959.zip)
+
+<details><summary><strong>Changelog</strong></summary>
+
+- Drop debugging
+
+</details>
+<br/>
+
+| Version | Build Date | Status   | Maintainer                                 | Downloads |
+| :------ | :--------- | :------- | :----------------------------------------- | :-------- |
+| 1.0     | 12/04/2021 | OFFICIAL | [@danascape](https://github.com/danascape) | [Sourceforge](https://sourceforge.net/projects/stormbreakerdevices/files/X00P/Stormbreaker-X00P-12042021-1.0.zip/download)<br/> [Internet Archive](https://archive.org/download/x00p-archive/kernels/sb/Stormbreaker-X00P-12042021-1.0.zip)
+
+<details><summary><strong>Changelog</strong></summary>
+
+- No debugging
+- VDSO
+- Build with AOSP clang
+- Add wireguard
+- Configure CPU masks
+- Disable modules completely
+
+</details>
 
 ## Credits
 
